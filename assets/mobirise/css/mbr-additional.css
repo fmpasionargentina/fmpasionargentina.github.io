@@ -1225,11 +1225,12 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/app-1-1080x553.jpg");
 }
 .cid-rX2sW2nkB9 {
-  background: #ffffff;
+  background: #300073;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-rX2sW2nkB9 .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rX2sW2nkB9 .video-block {
@@ -1237,14 +1238,38 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rX2tnxFT19 {
-  background: #ffffff;
+  background: #300073;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(45deg, #300073, #1b002a);
 }
 .cid-rX2tnxFT19 .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rX2tnxFT19 .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rX2Mh1Bn5d {
+  background: #232323;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(45deg, #232323, #149dcc);
+}
+.cid-rX2Mh1Bn5d .image-block {
+  margin: auto;
+}
+.cid-rX2Mh1Bn5d figcaption {
+  position: relative;
+}
+.cid-rX2Mh1Bn5d figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rX2Mh1Bn5d .image-block {
     width: 100% !important;
   }
 }
