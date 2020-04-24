@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "fmpasionargentina",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -43,7 +43,14 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 18,
     "versionPublish": "4.12.3",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
